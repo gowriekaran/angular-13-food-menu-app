@@ -1,4 +1,5 @@
-# FoodMenuApp
+# AngularFoodMenuApp
+> Followed this [YouTube tutorial](https://www.youtube.com/playlist?list=PLpaspowtqj-dlt-C7FvRG42LNRFcXdRDD) by [@nasirjd](https://github.com/nasirjd)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
