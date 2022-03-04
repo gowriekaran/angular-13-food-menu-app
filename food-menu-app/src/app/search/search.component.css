@@ -15,6 +15,11 @@ div input {
     font-size: 1rem;
     font-weight: 500;
     outline: none;
+    color: red;
+}
+
+div input::placeholder {
+    color: red;
 }
 
 div button {
@@ -24,7 +29,7 @@ div button {
     font-size: 1rem;
     border-radius: 0 10rem 10rem 0;
     border: none;
-    background-color: #e72929;
+    background-color: red;
     color: white;
     opacity: .8;
     outline: none;
